@@ -46,6 +46,7 @@ h1 {
   width: 120px;
   border-radius: 30px;
   background-color: var(--white);
+  border: 4px solid var(--white);
   box-shadow: var(--key-shadow);
   color: var(--red);
   font-size: 1.75em;
